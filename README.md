@@ -17,6 +17,14 @@ To understand and implement all types of SQL joins with real examples.
 ## Tools Used
 - MySQL Workbench
 
+## Tables Used
+- **Customers** : Stores customer details.
+- **Orders** : Stores order details linked to customers.
+
+## Files in this Repository
+- 'SQL Joins' -> Contains table creation,sample data, and all join queries.
+- 'README.md' -> Overview about SQL joins and all types. 
+
 ## Outcome
 - Learned all join types in SQL.
 - Practiced with real datasets.
